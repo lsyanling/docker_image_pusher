@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 lejianwen/rustdesk-server-s6
 ryshe/terraria:vanilla-1.4.5.5
+ryshe/terraria:vanilla-1.4.5.6
